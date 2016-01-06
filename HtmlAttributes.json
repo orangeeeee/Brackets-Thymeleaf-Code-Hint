@@ -232,6 +232,18 @@
     "wrap":               { "attribOption": ["hard", "soft"] },
     "xml:lang":           { "attribOption": [] },
     "xmlns":              { "attribOption": [] },
-    "th:text":       { "attribOption": [] },
-	"th:each":       { "attribOption": [] }
+	"th:text":            { "attribOption": [], "global": "true" },
+	"th:inline":          { "attribOption": [], "global": "true" },
+	"th:class":          { "attribOption": [], "global": "true" },
+	"th:utext":          { "attribOption": [], "global": "true" },
+	"th:include":          { "attribOption": [], "global": "true" },
+	"th:replace":          { "attribOption": [], "global": "true" },
+	"th:if":          { "attribOption": [], "global": "true" },	
+	"th:with":          { "attribOption": [], "global": "true" },
+	"th:attr":          { "attribOption": [], "global": "true" },
+	"th:each":       { "attribOption": [] },
+	"th:href":       { "attribOption": [] },
+	"th:remove":       { "attribOption": [] },
+	"th:checked":       { "attribOption": [] },
+	"th:readonly":       { "attribOption": [] }
 }
