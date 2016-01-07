@@ -254,6 +254,8 @@
 	"th:switch":          { "attribOption": [], "global": "true" },
 	"th:unless":          { "attribOption": [], "global": "true" },
 	"th:object":          { "attribOption": [], "global": "true" },
+	"th:errorclass":          { "attribOption": [], "global": "true" },
+	"th:errors":          { "attribOption": [], "global": "true" },
 "th:accept":          { "attribOption": ["${}","*{}","#{}"], "global": "true" },
 "th:accept-charset":          { "attribOption": [], "global": "true" },
 "th:accesskey":          { "attribOption": [], "global": "true" },
