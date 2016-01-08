@@ -1,6 +1,5 @@
-Under Construction
+Brackets-Thymeleaf and HTML5 CodeHints
+=======================
+> version of Thymeleaf is 2.1
 
-link:http://www.thymeleaf.org/
-version of Thymeleaf is ・・・
 
-HTML5対応。
