@@ -245,7 +245,7 @@
 	"th:each":       { "attribOption": [] },
 	"th:href":       { "attribOption": ["@{}"] },
 	"th:remove":       { "attribOption": ["all","all-but-first","tag","body"] },
-	"th:checked":       { "attribOption": [] },
+	"th:checked":       { "attribOption": ["checked"] },
 	"th:readonly":       { "attribOption": [] },
 	"th:field":       { "attribOption": [] },
 	"th:src" :       { "attribOption": [] },

@@ -7,3 +7,5 @@ Brackets-Thymeleaf and HTML5 CodeHints
 ### code hint image
 
 ![thymeleaf attributes](https://github.com/orangeeeee/Brackets-Thymeleaf-Code-Hint/wiki/explain01.PNG)
+
+Thanks [coliff](https://github.com/coliff) for inspiration
