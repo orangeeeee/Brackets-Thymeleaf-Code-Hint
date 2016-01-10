@@ -1,6 +1,6 @@
 {
-    "title": "Brackets Thymeleaf Code-Hint",
-    "name": "Brackets-Thymeleaf-Code-Hint",
+    "title": "Brackets Thymeleaf Code Hint",
+    "name": "brackets-thymeleaf-code-hint",
     "description": "Extend Brackets HTML code hints and collif's Brackets-HTML5CodeHints with Thymeleaf elements like th:if, th:text and attributes such as th:class, th:include, th:replace",
     "version": "1.0.0",
     "keywords":["thymeleaf","Thymeleaf","html5","html","hint"],
