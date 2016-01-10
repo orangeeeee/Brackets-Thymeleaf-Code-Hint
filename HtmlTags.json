@@ -102,7 +102,7 @@
     "sub":        { "attributes": [] },
     "summary":    { "attributes": [] },
     "sup":        { "attributes": [] },
-    "table":      { "attributes": ["border", "cellpadding", "cellspacing", "height", "width","th:cellpadding","th:cellspacing] },
+    "table":      { "attributes": ["border", "cellpadding", "cellspacing", "height", "width","th:cellpadding","th:cellspacing"] },
     "tbody":      { "attributes": [] },
     "td":         { "attributes": ["colspan", "headers", "rowspan","th:axis","th:text","th:colspan"] },
     "template":   { "attributes": [] },
