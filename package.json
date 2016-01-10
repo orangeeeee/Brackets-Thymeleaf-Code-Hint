@@ -3,7 +3,7 @@
     "name": "Brackets-Thymeleaf-Code-Hint",
     "description": "Extend Brackets HTML code hints and collif's Brackets-HTML5CodeHints with Thymeleaf elements like th:if, th:text and attributes such as th:class, th:include, th:replace",
     "version": "1.0.0",
-    "keywords":["thymeleaf","Thymeleaf","html5","html"],
+    "keywords":["thymeleaf","Thymeleaf","html5","html","hint"],
     "author": "Yuuichi Kurata",
     "homepage": "https://github.com/orangeeeee/Brackets-Thymeleaf-Code-Hint/",
     "repository": {
